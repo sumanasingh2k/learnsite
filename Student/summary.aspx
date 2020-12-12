@@ -10,8 +10,10 @@
                         <asp:ImageButton ID="BtnEdit" runat="server" ToolTip="提示" 
                        ImageUrl="~/Images/edit.gif" onclick="BtnEdit_Click" style="width: 16px" 
                             Enabled="False" />
+                        <img scr="https://happybirthdaycake24.b-cdn.net/wp-content/uploads/merry-christmas-wishes-snowman-greeting-card-with-name.jpg"/>
                     </td>
                 </tr>
+                <tr><td><a href="https://happybirthdaycake24.com><button>GenNext</a>
                 <tr>
                     <td colspan="3" style="border: 1px double #CADEFD;width: 660px;height: 28px;">
                         <strong>总结内容</strong>：<br /><br />
